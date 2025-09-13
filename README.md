@@ -3,7 +3,6 @@
 TalkWidget is a custom Nextcloud Dashboard widget that integrates with **Nextcloud Talk** and displays recent room messages directly on the Dashboard.  
 This project uses **PHP (Nextcloud App Framework)** and **Webpack (JS/React/Vue frontend)**.
 
----
 
 ## 🚀 Features
 - Custom Dashboard widget named **Talk Widget**
@@ -11,10 +10,7 @@ This project uses **PHP (Nextcloud App Framework)** and **Webpack (JS/React/Vue 
 - Integration point for fetching Talk API messages
 - Easy to extend with Vue/React components
 
----
-
 ## 📂 Project Structure
-```
 apps/talkwidget/
 ├── appinfo/
 │   └── info.xml
@@ -30,7 +26,6 @@ apps/talkwidget/
 └── README.md
 ```
 
----
 
 ## ⚙️ Setup Instructions
 
